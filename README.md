@@ -3,8 +3,8 @@
 
 # Model Preview
 
-## This first one
-<script src="https://github.com/HustLion/3dmodels/blob/master/models/startup.stl"></script>
+## The first one
+<script src="https://embed.github.com/view/3d/HustLion/3dmodels/master/models/startup.stl"></script>
 
 
 
