@@ -3,8 +3,7 @@
 
 # Model Preview
 
-## The first one
-<script src="https://embed.github.com/view/3d/HustLion/3dmodels/master/models/startup.stl"></script>
+Please go to [the pages site of this repository](http://hustlion.github.io/3dmodels/).
 
 
 
