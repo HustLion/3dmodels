@@ -1,0 +1,6 @@
+{
+  "name": "3D Models",
+  "tagline": "3D models made in OpenSCAD",
+  "body": "# 3dmodels\r\n3d models made in OpenSCAD\r\n\r\n# Model Preview\r\n\r\n## The first one\r\n<script src=\"https://github.com/HustLion/3dmodels/blob/master/models/startup.stl\"></script>\r\n\r\n\r\n\r\n\r\n# Useful Viewer\r\n[OpenJSCAD](https://github.com/Spiritdude/OpenJSCAD.org)\r\n\r\n\r\n# TODO\r\n- [x] finish repo creation\r\n- [ ] create pages for this repo.\r\n- [ ] show stl in pages.\r\n- [ ] add more scripts.\r\n- [ ] integrate with OpenSCAD.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
